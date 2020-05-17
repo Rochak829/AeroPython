@@ -1,4 +1,6 @@
-﻿Aur bhai kya hall hai?
+﻿Aur Shubham bhai kaise ho ?
+Coder bn gya hu mei
+
 # Classical Aerodynamics with Python
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](None)
